@@ -116,6 +116,8 @@ function renderLayout(): void {
           <div id="task-list" class="space-y-3"></div>
         </section>
       </main>
+      </main>
+      <footer class="text-center text-xs text-slate-500 mt-8">Tugas Pengembangan Aplikasi Web - Semester 5</footer>
     </div>
   `;
 
