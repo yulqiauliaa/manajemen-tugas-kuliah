@@ -116,6 +116,7 @@ function renderLayout(): void {
           <div id="task-list" class="space-y-3"></div>
         </section>
       </main>
+      <footer class="text-center text-xs text-slate-400 mt-8">Dibuat oleh Yulqi Aulia • 2026</footer>
     </div>
   `;
 
